@@ -1,4 +1,4 @@
-# JSON-CRUD-API-GO
+# Go JSON CRUD API
 
 ## Overview
 
